@@ -1,6 +1,6 @@
 {
     "id" : "ThroughoutTheAges",
-    "version" : "0.1.0",
+    "version" : "0.1.1-SNAPSHOT",
     "author" : "Marcin Sciesinski <marcins78@gmail.com>",
     "displayName" : "Throughout the Ages",
     "description" : "Develop your skills and tools Through the Ages from stone to copper and beyond",
