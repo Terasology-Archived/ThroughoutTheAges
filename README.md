@@ -1,9 +1,9 @@
 ThroughoutTheAges
 =================
 
-[![Stories in Ready](https://badge.waffle.io/terasology/throughouttheages.png?label=ready&title=Ready)](http://waffle.io/terasology/throughouttheages)
-
 Primary repo for the Throughout the Ages module series
+
+*NOTE:* TTA is effectively superseded by [NeoTTA](https://github.com/Terasology/NeoTTA) and this version is becoming increasingly buggy.
 
 ##Fetch all with gradle
 
