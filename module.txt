@@ -7,7 +7,7 @@
     "dependencies" : [
             {
                 "id" : "WoodAndStone",
-                "minVersion" : "0.1.0"
+                "minVersion" : "1.0.0"
             },
             {
                 "id" : "CopperAndBronze",
